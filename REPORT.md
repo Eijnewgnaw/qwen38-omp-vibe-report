@@ -1,6 +1,6 @@
 # 实验报告：本地 Qwen worker 值不值得成为 OMP Vibe 默认？
 
-English version: [REPORT.en.md](REPORT.en.md). 本地部署前的框架比较，以及 Qwen 的上下文、KV cache 与并发实验，见中英双语附录：[LOCAL_QWEN_DEPLOYMENT.md](LOCAL_QWEN_DEPLOYMENT.md)。
+英文版见 [REPORT.en.md](REPORT.en.md)。本地部署前的框架比较，以及 Qwen 的上下文、KV cache 与并发实验，见中英双语附录：[LOCAL_QWEN_DEPLOYMENT.md](LOCAL_QWEN_DEPLOYMENT.md)。
 
 ## 执行摘要
 
