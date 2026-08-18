@@ -1,5 +1,7 @@
 # 方法与可比性边界
 
+English version: [METHODOLOGY.en.md](METHODOLOGY.en.md).
+
 ## 环境范围
 
 - 宿主：Windows + WSL2。

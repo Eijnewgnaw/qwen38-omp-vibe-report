@@ -1,5 +1,7 @@
 # 实验报告：本地 Qwen worker 值不值得成为 OMP Vibe 默认？
 
+English version: [REPORT.en.md](REPORT.en.md). 本地部署前的框架比较，以及 Qwen 的上下文、KV cache 与并发实验，见中英双语附录：[LOCAL_QWEN_DEPLOYMENT.md](LOCAL_QWEN_DEPLOYMENT.md)。
+
 ## 执行摘要
 
 这套部署一开始的目标是：让远端模型负责 Director，本地 Qwen3.8-27B 4-bit 承担并行的执行型 worker，以减少远端 token 与成本，并尽量保留 OMP Vibe 的自然协作体验。
