@@ -13,6 +13,7 @@
 ## 文档
 
 - [实验报告](REPORT.md)
+- [Hybrid 与全 DeepSeek Flash 的日志行为分析](HYBRID_VS_ALL_DSF_ANALYSIS.md)
 - [本地 Qwen 部署、框架、并发与上下文探索](LOCAL_QWEN_DEPLOYMENT.md)
 - [方法与可比性边界](METHODOLOGY.md)
 - [英文版入口](README.en.md)

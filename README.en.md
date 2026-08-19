@@ -13,6 +13,7 @@ This is not a universal ranking of models, tasks, or hardware. It shows that hyb
 ## Documents
 
 - [Experiment report](REPORT.en.md)
+- [Log and inference analysis: Hybrid versus All-DeepSeek Flash](HYBRID_VS_ALL_DSF_ANALYSIS.en.md)
 - [Local Qwen deployment, framework, concurrency, and context study](LOCAL_QWEN_DEPLOYMENT.en.md)
 - [Methodology and comparability limits](METHODOLOGY.en.md)
 - [Chinese entry point](README.md)
